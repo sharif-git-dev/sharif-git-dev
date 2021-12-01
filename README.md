@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharif-git-dev
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m know Flutter
 - 📫 How to reach me sharefjammoo@gmail.com
 
 <!---
